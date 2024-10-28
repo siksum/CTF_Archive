@@ -1,3 +1,10 @@
+## CTF 정보
+- CTF: HeroCTF 2024
+- 문제 이름: LazySysAdmin #1
+- 점수: 50
+- 난이도: easy
+
+
 ## Description
 Your system administrator calls you, all worried, he's just observed some strange behavior: the server he was connected on has suddenly shut down. After some questioning, you realize that he's been browsing on a suspicious wesite. You decide to inspect the website yourself. Will you be able to find the root of your problems ? Once you've found it, base64 the malicious charge.
 > URL: [**http://misc.heroctf.fr:8085**](http://misc.heroctf.fr:8085/)

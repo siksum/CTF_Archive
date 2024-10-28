@@ -1,5 +1,4 @@
 ## CTF 정보
-
 - CTF: HeroCTF 2024
 - 문제 이름: free_shell
 - 점수: 50
